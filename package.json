@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.3.0",
+    "dotenv": "^16.0.3",
+    "rsync": "^0.6.1"
+  }
 }
